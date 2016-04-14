@@ -16,6 +16,7 @@ public class Colaborate_test {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("je m'appelle yaya");
     }
     
 }
